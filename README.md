@@ -31,11 +31,11 @@
 
 ## About The Project
 
-❏ Shifting in a new place.
-❏ Finding house in unknown city is a tough task.
-❏ Our website will connect student and owner.
-❏ Laundry, Internet, Food services are also difficult to find in a new city.
-❏ Our website will include these basic facilities in house.
+- Shifting in a new place.
+- Finding house in unknown city is a tough task.
+- Our website will connect student and owner.
+- Laundry, Internet, Food services are also difficult to find in a new city.
+- Our website will include these basic facilities in house.
 
 #### Built With
 
@@ -46,11 +46,11 @@
 ## Key Features
 
 - **Simple Easy to Use UI**
-❏ Domestic Helping
-❏ Food Services
-❏ Public Transportation nearby
-❏ Laundry services
-❏ Wifi Availability
+- Domestic Helping
+- Food Services
+- Public Transportation nearby
+- Laundry services
+- Wifi Availability
 
 <!-- Screenshots -->
 
